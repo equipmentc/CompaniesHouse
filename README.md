@@ -2,6 +2,8 @@
 
 A laravel package to query the Companies House API.
 
+Forked from the now vanished kudosagency/companieshouse.
+
 ## Install
 ```
 composer require equipal/companieshouse
